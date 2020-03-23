@@ -1,0 +1,2 @@
+# application-failure-prediction
+This assignment deals with predicting failure of application executions (referred to as “job”) on Purdue ITaP’s central computing cluster. This is data that we have collected, collated, and analyzed as part of a project from the National Science Foundation (NSF) (Computer System Failure Data Repository to Enable Data-Driven Dependability Research,” Proposal No. CNS-1513197). 
