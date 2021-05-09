@@ -7,7 +7,13 @@ For each job, we have data about the resources the job uses and whether the job 
 3.	Local IO
 4.	Network File System (NFS)
 
-We are releasing the training data, which has about 8% failure data (this is referred to as the “positive class”). You will build Machine Learning models in Python to predict whether a job will fail or not, given the resource usage data. We will evaluate your model on some test data that we are not releasing now and that we will use later at the time of the evaluation. 
+We are releasing the training data, which has about 8% failure data (this is referred to as the “positive class”). You will build Machine Learning models in Python to predict whether a job will fail or not, given the resource usage data.
+
+**Submission**
+
+To facilitate automated evaluation, this challenge has been split into two parts with slightly different objectives: 
+ [Challenge 1.1](https://www.kaggle.com/c/application-failure-prediction-part1/overview) and [Challenge 1.2](https://www.kaggle.com/c/application-failure-prediction-part2/overview). You must complete both parts and **upload your solutions separately**.
+
 
 Two papers that explain and report on this dataset are:
 * Kumar, Rakesh, Saurabh Jha, Ashraf Mahgoub, Rajesh Kalyanam, Stephen Harrell, Xiaohui Carol Song, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer, and Saurabh Bagchi. "The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems." In 2020 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 158-171. IEEE, 2020.
