@@ -15,6 +15,8 @@ To facilitate automated evaluation, this challenge has been split into two parts
  [Challenge 1.1](https://www.kaggle.com/c/application-failure-prediction-part1/overview) and [Challenge 1.2](https://www.kaggle.com/c/application-failure-prediction-part2/overview). You must complete both parts and **upload your solutions separately**.
 
 
+**References**
+
 Two papers that explain and report on this dataset are:
 * Kumar, Rakesh, Saurabh Jha, Ashraf Mahgoub, Rajesh Kalyanam, Stephen Harrell, Xiaohui Carol Song, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer, and Saurabh Bagchi. "The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems." In 2020 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 158-171. IEEE, 2020.
 * Jha, Saurabh, Archit Patke, Jim Brandt, Ann Gentile, Benjamin Lim, Mike Showerman, Greg Bauer et al. "Measuring congestion in high-performance datacenter interconnects." In 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI), pp. 37-57. 2020.
